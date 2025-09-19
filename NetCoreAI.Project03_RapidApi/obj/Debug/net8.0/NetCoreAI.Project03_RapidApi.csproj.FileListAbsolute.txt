@@ -1,0 +1,17 @@
+E:\visual studio projeler\NetCoreAI\NetCoreAI.Project03_RapidApi\bin\Debug\net8.0\NetCoreAI.Project03_RapidApi.exe
+E:\visual studio projeler\NetCoreAI\NetCoreAI.Project03_RapidApi\bin\Debug\net8.0\NetCoreAI.Project03_RapidApi.deps.json
+E:\visual studio projeler\NetCoreAI\NetCoreAI.Project03_RapidApi\bin\Debug\net8.0\NetCoreAI.Project03_RapidApi.runtimeconfig.json
+E:\visual studio projeler\NetCoreAI\NetCoreAI.Project03_RapidApi\bin\Debug\net8.0\NetCoreAI.Project03_RapidApi.dll
+E:\visual studio projeler\NetCoreAI\NetCoreAI.Project03_RapidApi\bin\Debug\net8.0\NetCoreAI.Project03_RapidApi.pdb
+E:\visual studio projeler\NetCoreAI\NetCoreAI.Project03_RapidApi\obj\Debug\net8.0\NetCoreAI.Project03_RapidApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio projeler\NetCoreAI\NetCoreAI.Project03_RapidApi\obj\Debug\net8.0\NetCoreAI.Project03_RapidApi.AssemblyInfoInputs.cache
+E:\visual studio projeler\NetCoreAI\NetCoreAI.Project03_RapidApi\obj\Debug\net8.0\NetCoreAI.Project03_RapidApi.AssemblyInfo.cs
+E:\visual studio projeler\NetCoreAI\NetCoreAI.Project03_RapidApi\obj\Debug\net8.0\NetCoreAI.Project03_RapidApi.csproj.CoreCompileInputs.cache
+E:\visual studio projeler\NetCoreAI\NetCoreAI.Project03_RapidApi\obj\Debug\net8.0\NetCoreAI.Project03_RapidApi.dll
+E:\visual studio projeler\NetCoreAI\NetCoreAI.Project03_RapidApi\obj\Debug\net8.0\refint\NetCoreAI.Project03_RapidApi.dll
+E:\visual studio projeler\NetCoreAI\NetCoreAI.Project03_RapidApi\obj\Debug\net8.0\NetCoreAI.Project03_RapidApi.pdb
+E:\visual studio projeler\NetCoreAI\NetCoreAI.Project03_RapidApi\obj\Debug\net8.0\NetCoreAI.Project03_RapidApi.genruntimeconfig.cache
+E:\visual studio projeler\NetCoreAI\NetCoreAI.Project03_RapidApi\obj\Debug\net8.0\ref\NetCoreAI.Project03_RapidApi.dll
+E:\visual studio projeler\NetCoreAI\NetCoreAI.Project03_RapidApi\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\visual studio projeler\NetCoreAI\NetCoreAI.Project03_RapidApi\obj\Debug\net8.0\NetCoreAI.Project03_RapidApi.csproj.AssemblyReference.cache
+E:\visual studio projeler\NetCoreAI\NetCoreAI.Project03_RapidApi\obj\Debug\net8.0\NetCoreA.4AB75508.Up2Date

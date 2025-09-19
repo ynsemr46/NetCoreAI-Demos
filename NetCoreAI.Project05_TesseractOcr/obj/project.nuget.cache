@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tfMcylR334Y=",
+  "success": true,
+  "projectFilePath": "E:\\visual studio projeler\\NetCoreAI\\NetCoreAI.Project05_TesseractOcr\\NetCoreAI.Project05_TesseractOcr.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\YUNUS EMRE KARABAYIR\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\YUNUS EMRE KARABAYIR\\.nuget\\packages\\tesseract\\5.2.0\\tesseract.5.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

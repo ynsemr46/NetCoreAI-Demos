@@ -1,0 +1,76 @@
+[
+  {
+    "ContainingType": "NetCoreAI.Project01_ApiDemo.Controllers.ValuesController",
+    "Method": "CustomerList",
+    "RelativePath": "api/Values",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NetCoreAI.Project01_ApiDemo.Controllers.ValuesController",
+    "Method": "AddCustomer",
+    "RelativePath": "api/Values",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customer",
+        "Type": "NetCoreAI.Project01_ApiDemo.Entities.Customer",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NetCoreAI.Project01_ApiDemo.Controllers.ValuesController",
+    "Method": "UpdateCustomer",
+    "RelativePath": "api/Values",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customer",
+        "Type": "NetCoreAI.Project01_ApiDemo.Entities.Customer",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NetCoreAI.Project01_ApiDemo.Controllers.ValuesController",
+    "Method": "DeleteCustomer",
+    "RelativePath": "api/Values/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NetCoreAI.Project01_ApiDemo.Controllers.ValuesController",
+    "Method": "GetCustomer",
+    "RelativePath": "api/Values/GetCustomer",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

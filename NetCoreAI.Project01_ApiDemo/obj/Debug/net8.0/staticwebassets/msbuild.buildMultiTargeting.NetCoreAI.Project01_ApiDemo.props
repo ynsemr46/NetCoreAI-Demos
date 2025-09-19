@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NetCoreAI.Project01_ApiDemo.props" />
+</Project>
